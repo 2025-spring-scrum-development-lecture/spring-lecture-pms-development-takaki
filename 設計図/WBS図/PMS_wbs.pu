@@ -1,0 +1,15 @@
+@startwbs PMS
+title 宿泊見積システムWBS
+*[#NavajoWhite] 宿泊見積システム作成
+**[#SkyBlue] メイン画面作成
+***[#LightYellow] 宿泊ボタンと宴会ボタンを配置
+***[#LightYellow] ボタン押下でそれぞれのページへ遷移
+***[#LightYellow] 終了ボタン配置
+**[#SkyBlue] 宿泊画面作成
+***[#LightYellow] 宿泊プラン選択画面作成
+***[#LightYellow] 部屋・オプション選択画面
+***[#LightYellow] 条件選択画面作成
+**[#SkyBlue] 宴会画面作成
+***[#LightYellow] 宴会プラン選択画面作成
+***[#LightYellow] 条件・オプション選択画面作成
+@endwbs

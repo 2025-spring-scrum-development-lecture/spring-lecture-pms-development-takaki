@@ -1,0 +1,16 @@
+@startwbs 宴会宿泊画面
+title 宴会宿泊画面WBS
+*[#NavajoWhite] 宿泊見積システム作成
+**[#SkyBlue] 宴会プラン選択画面作成
+***[#LightYellow] ツリービューにて宴会プランを配置
+***[#LightYellow] 選択ボタンを配置
+***[#LightYellow] 宴会プランを選択し選択ボタンを押下することで\n条件画面へ画面遷移
+**[#SkyBlue] オプション選択画面作成
+***[#LightYellow] チェックボタンを用いてオプションを複数配置
+***[#LightYellow] 「次へ」ボタンを配置しオプションを選択後\n押下で条件画面へ遷移
+**[#SkyBlue] 条件選択画面作成
+***[#LightYellow] 日程選択用のカレンダーを配置
+***[#LightYellow] 宿泊人数を決めるウィジェットを配置
+***[#LightYellow] メールアドレスを入力するための\nエントリーフォームを配置
+***[#LightYellow] 見積もりボタンを配置しボタン押下で\n見積もり内容を送信
+@endwbs

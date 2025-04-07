@@ -1,0 +1,17 @@
+@startwbs 宿泊画面
+title 宿泊画面WBS
+*[#NavajoWhite] 宿泊見積システム作成
+**[#SkyBlue] 宿泊プラン選択画面作成
+***[#LightYellow] ツリービューにて宿泊プランを配置
+***[#LightYellow] 選択ボタンを配置
+***[#LightYellow] 宿泊プランを選択し選択ボタンを押下することで\n宿泊部屋へ画面遷移
+**[#SkyBlue] 宿泊部屋選択画面作成
+***[#LightYellow] ラジオボタンを用いて部屋を8種類配置
+***[#LightYellow] チェックボタンを用いてオプションを複数配置
+***[#LightYellow] 「次へ」ボタンを配置し部屋とオプションを選択後\n押下で条件画面へ遷移
+**[#SkyBlue] 条件選択画面作成
+***[#LightYellow] 日程選択用のカレンダーを配置
+***[#LightYellow] 宿泊人数を決めるウィジェットを配置
+***[#LightYellow] メールアドレスを入力するための\nエントリーフォームを配置
+***[#LightYellow] 見積もりボタンを配置しボタン押下で\n見積もり内容を送信
+@endwbs
